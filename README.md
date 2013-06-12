@@ -84,6 +84,11 @@ Change the composer.json with your values
 >**Note:**
 >If you change the license field, you should change the LICENSE file of the bundle.
 
+Change the LICENSE
+------------------
+
+Do not give me credits for your work. Change the name and date of the license if you chose a MIT one.
+
 Replace name and namespace of the bundle
 ----------------------------------------
 
